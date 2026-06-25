@@ -1,106 +1,98 @@
-👋 Hi, I’m Łukasz
+# 👋 Hi, I'm Łukasz
 
-Senior .NET Developer • Founder • Photographer
+### Senior .NET Developer • Founder • Photographer
 
-I build software.
-I build products.
+I build software.  
+I build products.  
 I solve real-world problems.
 
-⸻
+---
 
-🚀 Currently Building
+# 🚀 Currently Building
 
-Framely
+## Framely
 
 A modern ecosystem for photographers.
 
-Framely complements existing tools like Lightroom by helping photographers automate repetitive work, protect their images and simplify the entire workflow.
+Framely complements existing tools like **Lightroom** by helping photographers automate repetitive work, protect their images and simplify the entire workflow.
 
-🌐 https://www.framely.pl
+🌐 **https://www.framely.pl**
 
-⸻
+---
 
-📸 Why Framely?
+# 📸 Why Framely?
 
-Most photography software helps photographers edit photos.
+Most photography software helps photographers **edit photos**.
 
-Framely helps photographers finish the entire workflow.
+**Framely helps photographers finish the entire workflow.**
 
-✔ Select
+- ✔ Select
+- ✔ Enhance
+- ✔ Protect
+- ✔ Deliver
+- ✔ Prove authenticity
 
-✔ Enhance
+> Helping photographers spend less time behind the computer and more time behind the camera.
 
-✔ Protect
+---
 
-✔ Deliver
+# 💻 Tech Stack
 
-✔ Prove authenticity
+## Backend
 
-Helping photographers spend less time behind the computer and more time behind the camera.
+- .NET
+- ASP.NET Core
+- ServiceStack
+- Akka.NET
 
-⸻
+## Frontend
 
-💻 Tech Stack
+- Angular
+- TypeScript
 
-Backend
+## Cloud
 
-* .NET
-* ASP.NET Core
-* ServiceStack
-* Akka.NET
+- AWS
+- Docker
+- Terraform
 
-Frontend
+## Data
 
-* Angular
-* TypeScript
+- PostgreSQL
+- Redis
+- MinIO
 
-Cloud
+## Imaging
 
-* AWS
-* Docker
-* Terraform
+- OpenCV
+- Computer Vision
 
-Data
+---
 
-* PostgreSQL
-* Redis
-* MinIO
+# ❤️ Beyond Coding
 
-Imaging
+Outside of software development you'll usually find me:
 
-* OpenCV
-* Computer Vision
+- 📸 Photography
+- 🐎 Ford Mustang
+- 🐈 Looking for Figiel somewhere in the garden
+- ☁️ Cloud technologies
+- 🤖 AI
 
-⸻
+---
 
-❤️ Beyond Coding
+# 💡 Philosophy
 
-Outside of software development you’ll usually find me:
-
-📸 Photography
-
-🐎 Ford Mustang
-
-🐈 Looking for Figiel somewhere in the garden
-
-☁️ Cloud technologies
-
-🤖 AI
-
-⸻
-
-💡 Philosophy
-
-Don’t build features.
-
-Build solutions to real problems.
+> **Don't build features.**
+>
+> **Build solutions to real problems.**
 
 Technology should stay in the background.
 
 Users should simply feel that their work became easier.
 
-⸻
+---
 
-🤝 Let’s Connect
+# 🤝 Let's Connect
 
-🌐 https://www.framely.pl
+🌐 **https://www.framely.pl**
