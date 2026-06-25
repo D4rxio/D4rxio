@@ -3,26 +3,20 @@
 Senior .NET Developer • Founder • Photographer
 
 I build software.
-
 I build products.
-
 I solve real-world problems.
-
-Currently building Framely — a modern ecosystem for photographers.
-
-🌐 https://www.framely.pl
 
 ⸻
 
-🚀 What I’m Building
+🚀 Currently Building
 
 Framely
 
-Framely is designed to complement the photographer’s workflow instead of replacing existing tools like Lightroom.
+A modern ecosystem for photographers.
 
-The goal is simple:
+Framely complements existing tools like Lightroom by helping photographers automate repetitive work, protect their images and simplify the entire workflow.
 
-Help photographers spend less time behind the computer and more time behind the camera.
+🌐 https://www.framely.pl
 
 ⸻
 
@@ -42,14 +36,15 @@ Framely helps photographers finish the entire workflow.
 
 ✔ Prove authenticity
 
+Helping photographers spend less time behind the computer and more time behind the camera.
+
 ⸻
 
 💻 Tech Stack
 
 Backend
 
-* .NET 8
-* C#
+* .NET
 * ASP.NET Core
 * ServiceStack
 * Akka.NET
@@ -74,43 +69,23 @@ Data
 Imaging
 
 * OpenCV
-* Image Processing
 * Computer Vision
 
 ⸻
 
-🌱 Current Focus
-
-I’m currently focused on building software that solves real-world problems instead of adding features for the sake of features.
-
-Current focus areas include:
-
-* 📸 Workflow Automation
-* 🎨 Automated Photo Processing
-* 🔐 Image Security
-* 📚 Image Authenticity
-* 👥 Client Collaboration
-
-Future direction:
-
-* 🤖 AI-assisted Workflow
-* 🧠 Personalized AI Editing
-
-⸻
-
-📷 Beyond Coding
-
-Photography is one of my biggest passions.
-
-It also inspired me to build Framely.
+❤️ Beyond Coding
 
 Outside of software development you’ll usually find me:
 
-* 📸 Taking photos
-* 🐎 Driving my Ford Mustang
-* 🐈 Looking for Figiel somewhere in the garden
-* ☁️ Exploring cloud technologies
-* 🤖 Experimenting with AI
+📸 Photography
+
+🐎 Ford Mustang
+
+🐈 Looking for Figiel somewhere in the garden
+
+☁️ Cloud technologies
+
+🤖 AI
 
 ⸻
 
@@ -128,8 +103,4 @@ Users should simply feel that their work became easier.
 
 🤝 Let’s Connect
 
-🌐 Framely
-
-https://www.framely.pl
-
-Feel free to explore my repositories, open an issue, start a discussion or simply say hello 👋
+🌐 https://www.framely.pl
