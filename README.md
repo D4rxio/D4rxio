@@ -12,9 +12,9 @@ I solve real-world problems.
 
 ## Framely
 
-A modern ecosystem for photographers.
+A workflow platform for professional photographers.
 
-Framely complements existing tools like **Lightroom** by helping photographers automate repetitive work, protect their images and simplify the entire workflow.
+Framely complements tools like **Lightroom** by helping photographers manage the work around the edit — from selection and processing to gallery, delivery and trust around the final image.
 
 🌐 **https://www.framely.pl**
 
@@ -22,50 +22,36 @@ Framely complements existing tools like **Lightroom** by helping photographers a
 
 # 📸 Why Framely?
 
-Most photography software helps photographers **edit photos**.
+Most photography software focuses on **editing photos**.
 
-**Framely helps photographers finish the entire workflow.**
+**Framely focuses on helping photographers complete the whole workflow.**
 
+- ✔ Organize the work
 - ✔ Select
-- ✔ Enhance
-- ✔ Protect
+- ✔ Process
+- ✔ Review
 - ✔ Deliver
-- ✔ Prove authenticity
+- ✔ Keep a technical provenance trail
 
 > Helping photographers spend less time behind the computer and more time behind the camera.
 
 ---
 
-# 💻 Tech Stack
+# 🧭 Open Source
 
-## Backend
+## claude-roadmap
 
-- .NET
-- ASP.NET Core
-- ServiceStack
-- Akka.NET
+A lightweight, file-based roadmap for coding agents — shared planning state across sessions, agents and tools.
 
-## Frontend
+It keeps tracks, backlog, priorities, dependencies and progress in one place without turning into a full project-management system.
 
-- Angular
-- TypeScript
+🔗 **https://github.com/D4rxio/claude-roadmap**
 
-## Cloud
+---
 
-- AWS
-- Docker
-- Terraform
+# 💻 Tech
 
-## Data
-
-- PostgreSQL
-- Redis
-- MinIO
-
-## Imaging
-
-- OpenCV
-- Computer Vision
+.NET • Angular • AI / Computer Vision
 
 ---
 
@@ -76,7 +62,6 @@ Outside of software development you'll usually find me:
 - 📸 Photography
 - 🐎 Ford Mustang
 - 🐈 Looking for Figiel somewhere in the garden
-- ☁️ Cloud technologies
 - 🤖 AI
 
 ---
